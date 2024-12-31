@@ -1,0 +1,13 @@
+name: ProtectedPay
+tagline: Make crypto transfers worry free
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-ProtectedPay
+sourceCodeUrl: https://github.com/Spydiecy/Protectedpay
+liveDemoUrl: https://protectedpay.xyz/  
+social:
+  x: @protectedpay
+  github: spydiecy
+team:
+  -
+    name: Tanishq
+    github: spydiecy
+    x: @tanishqistaken
