@@ -1,0 +1,13 @@
+name: AuditFi
+tagline: Next-generation smart contract security powered by AI, delivering instant, on-chain audit reports across multiple networks.
+showcaseUrl: https://www.hackquest.io/en/hackathon/projects/Flow-Asia-Hackathon-AuditFi
+sourceCodeUrl: https://github.com/Spydiecy/AuditFi
+liveDemoUrl: https://auditfi.vercel.app/
+social:
+  x: @AuditFi_ai
+  github: spydiecy
+team:
+  -
+    name: Tanishq
+    github: spydiecy
+    x: @tanishqistaken
